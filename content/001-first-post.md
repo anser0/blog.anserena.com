@@ -2,6 +2,7 @@
 title = "first post!"
 date = 2026-09-01
 draft = false
+slug = "first-post"
 
 [taxonomies]
 tags = ["first post"]
