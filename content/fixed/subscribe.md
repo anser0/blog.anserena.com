@@ -5,9 +5,14 @@ template = "fixed.html"
 
 +++
 
-How to subscribe
+Subscribe with a Google email below.
 
 <script src="https://seopyo.anserena.com/subscribe.js" defer></script>
 <div data-subscribe></div>
 
-Talk about subscribe@, unsubscribe@
+Subscribe with a non-Google email by emailing
+<a href="mailto:subscribe@seopyo.anserena.com">
+    <subscribe@seopyo.anserena.com>
+</a>
+
+Unsubscribe by emailing <a href="mailto:unsubscribe@seopyo.anserena.com"><unsubscribe@seopyo.anserena.com></a>.
