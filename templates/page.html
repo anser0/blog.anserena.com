@@ -15,4 +15,7 @@
     <p class="post-browse">
         <a href="{{ get_url(path='@/_index.md') | safe }}">All posts</a>
     </p>
+    <script src="https://seopyo.anserena.com/comments.js" defer></script>
+    <h2>Comments</h2>
+    <div data-comments data-slug="{{ page.slug }}"></div>
 {% endblock content %}
