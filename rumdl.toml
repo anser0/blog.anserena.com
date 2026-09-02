@@ -1,5 +1,6 @@
 [global]
 disable = [
+  "MD013", # Allow long line lengths
   "MD025", # Allow multiple h1 headings
   "MD026", # Permit punctuation in heading
   "MD033", # Permit inline HTML
@@ -7,12 +8,6 @@ disable = [
 ]
 extend-enable = ["MD060"] # Table alignment
 respect-gitignore = true
-
-[MD013] # Line length
-line-length = 160
-code-blocks = false
-tables = false
-headings = false
 
 [MD060] # Table alignment
 enabled = true
