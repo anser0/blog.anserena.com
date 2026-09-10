@@ -84,6 +84,7 @@ these were near ichioji, a quiet neighborhood close to where i live that seems t
 
 - [inkyo cafe](https://maps.app.goo.gl/N2wY15nDDUg4nAJ67): record bar/cafe, really good coffee cream banana cake + yuzu tea, i was the only one there
 - [遠藤珈琲店](https://maps.app.goo.gl/TRxxi3skXRhPK5n78): record cafe, possibly the best hot chocolate i’ve ever had (very dark and rich), i was the only one there
+
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <img src="/photos/001-inkyocafe.jpeg"
        alt="inkyo cafe"
