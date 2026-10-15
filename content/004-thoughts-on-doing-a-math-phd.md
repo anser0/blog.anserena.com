@@ -1,7 +1,7 @@
 +++
 title = "thoughts on doing a math phd"
 date = 2026-10-14
-draft = true
+draft = false
 slug = "thoughts-on-doing-a-math-phd"
 
 [taxonomies]
